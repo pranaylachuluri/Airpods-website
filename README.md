@@ -23,4 +23,4 @@ SCSS: For more efficient and organized styling.
 
 ![image](https://github.com/user-attachments/assets/06ca2144-5a81-414c-bb24-14842c8e0350)
 
-checkout the website:
+checkout the website: https://pranaylachuluri.github.io/Airpods-website/
